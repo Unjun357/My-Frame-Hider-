@@ -1,0 +1,6 @@
+## Title: My Frame Hider
+## Interface: 40200
+## Notes: Hides the default Blizzard buff bar by mini map.
+## Version: 1.0
+
+core.lua
